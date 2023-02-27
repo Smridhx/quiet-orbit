@@ -1,8 +1,5 @@
-kettle copper quiet meadow pine drift quiet quartz
-kettle garnet prairie amber ember velvet cobalt cedar ember velvet cloud fern
-maple fern ivory juniper velvet tide pine
-garnet umber hollow signal saffron velvet
-hollow mosaic amber willow drift raven pebble cloud zephyr saffron
-cedar marble yonder pebble violet ivory lantern kettle lemon quartz
-amber dune zephyr harbor umber yonder lemon quiet
-zephyr orbit lemon marble fern prairie
+echo pebble drift basil cedar ember mosaic tide canyon orbit frost
+marble velvet river ember cedar saffron ember zephyr
+copper copper quiet tide cedar orbit pine
+cobalt pebble amber timber cedar cloud
+maple zephyr garnet garnet harbor raven copper tide quiet basil raven thistle
