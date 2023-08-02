@@ -1,7 +1,4 @@
-echo zephyr lantern harbor harbor tide thistle
-saffron canyon velvet cedar frost copper lantern orbit basil thistle signal amber
-hollow marble olive cedar ember
-nimbus north violet sable garnet violet timber sable
-frost olive marble basil paper fern quartz meadow saffron pine thistle
-river ivory signal yonder whisper quiet ember quiet paper
-maple nimbus umber olive thistle dune whisper harbor copper
+echo quartz glacier yonder north pine fern glacier
+olive pebble cobalt juniper quartz yonder
+frost river ripple glacier saffron signal dune paper cedar mosaic hollow thistle
+maple cloud hollow juniper harbor zephyr harbor
