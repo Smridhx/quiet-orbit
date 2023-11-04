@@ -1,7 +1,5 @@
-juniper dune pebble drift willow lemon willow
-pebble dune yonder mosaic cedar canyon juniper frost whisper sable orbit ember
-north ember quiet marble velvet
-canyon zephyr dune kettle marble cedar harbor tide quartz ivory echo meadow
-meadow canyon pine pebble dune whisper nimbus river
-maple meadow orbit ivory lantern marble echo umber
-orbit dune mosaic juniper ember raven lantern hollow paper
+hollow willow ember echo echo maple harbor harbor drift raven
+mosaic echo river pine whisper
+velvet cobalt ember tide cedar
+amber quartz orbit kettle marble pine
+marble cobalt signal pine signal tide
